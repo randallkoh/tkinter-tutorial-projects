@@ -1,0 +1,14 @@
+# Text settings
+FONT = 'Calibri'
+MAIN_TEXT_SIZE = 150
+INPUT_FONT_SIZE = 26
+SWITCH_FONT_SIZE = 18
+
+# Colours
+GREEN = '#50BFAB'
+DARK_GREEN = '#3A8A7B'
+WHITE = '#F2F2F2'
+BLACK = '#1F1F1F'
+LIGHT_GREY = '#E8E8E8'
+GREY = '#D9D9D9'
+TITLE_HEX_COLOUR = 0x00ABBF50 # hex order little endian
