@@ -7,6 +7,7 @@
 
 This folder contains some basic projects for me to learn tkinter and how to make a GUI.
 It follows the tutorial from https://www.youtube.com/watch?v=mop6g-c5HEY&t=44145s
+A venv file is included, use the .\venv\Scripts\activate command when in the project directory to enter the virtual enviroment.
 
 There are 3 main projects located in the projects folder.
 
